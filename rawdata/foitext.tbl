@@ -1,0 +1,9 @@
+--textual information from MEDWATCH Form Sections B5, H3, and H10.
+create table foitext (
+  MDR_REPORT_KEY INTEGER,
+  MDR_TEXT_KEY INTEGER,
+  TEXT_TYPE_CODE TEXT,
+  PATIENT_SEQUENCE_NUMBER INTEGER,
+  DATE_REPORT TEXT,
+  FOI_TEXT TEXT
+);

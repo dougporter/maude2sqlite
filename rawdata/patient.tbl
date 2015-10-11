@@ -1,0 +1,8 @@
+--information related to the patient(s) involved in the event.
+create table patient (
+  MDR_REPORT_KEY INTEGER,
+  PATIENT_SEQUENCE_NUMBER INTEGER,
+  DATE_RECEIVED TEXT,
+  SEQUENCE_NUMBER_TREATMENT TEXT,
+  SEQUENCE_NUMBER_OUTCOME TEXT
+);

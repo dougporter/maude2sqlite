@@ -1,0 +1,5 @@
+--information related to the device(s) involved in the event.
+create table deviceproblemcodes (
+  DEVICE_PROBLEM_CODE INTEGER PRIMARY KEY,
+  PROBLEM_DESCRIPTION TEXT
+);
