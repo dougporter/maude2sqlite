@@ -3,6 +3,7 @@ Repository for converting Manufacturer and User Facility Device Experience Datab
 
 ## Folder structure
 rawdata -  raw data files from [MAUDE](http://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/PostmarketRequirements/ReportingAdverseEvents/ucm127891.htm) as well as table declarations and load script
+
 db - location of resultant sqlite db
 
 ## Table Definitions
