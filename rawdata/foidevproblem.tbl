@@ -1,0 +1,5 @@
+--Device Data for problemcodes
+create table foidevproblem (
+  MDR_REPORT_KEY INTEGER,
+  DEVICE_PROBLEM_CODE INTEGER
+);
